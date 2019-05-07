@@ -1,6 +1,6 @@
 # Replicando o layout da nubank
 
-## Uma maneira de aprender como foram feitos as animações e o menu
+` Uma maneira de aprender como foram feitos as animações e o menu 
 
 ## To run this project use:
 ```
@@ -17,4 +17,4 @@ react-native run-ios
 **@author:** ‘Patrícia Gonsalves *< [paatricia.gonsalves@gmail.com](mailto:paatricia.gonsalves@gmail.com) >*' 
 
 
- README.md
+
